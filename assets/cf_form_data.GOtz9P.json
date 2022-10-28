@@ -3,7 +3,7 @@
     "id": "GOtz9P",
     "name": "Registration",
     "handle": "registration-5900",
-    "theme_id": null,
+    "theme_id": "133169971349",
     "settings": {
       "locales": {
         "back": "Back",
@@ -38,19 +38,20 @@
       "goBackAfterCancelButtonClick": false
     },
     "install_locations": [
-
+      "account_edit"
     ],
     "created_at": "2022-10-28T00:22:15Z",
-    "updated_at": "2022-10-28T00:22:15Z",
+    "updated_at": "2022-10-28T00:22:58Z",
     "revision_ids": [
+      "boTpXRY",
       "06TaPNR",
       "gyTXvGm"
     ]
   },
   "revision": {
-    "id": "06TaPNR",
-    "created_at": "2022-10-28T00:22:30Z",
-    "updated_at": "2022-10-28T00:22:30Z",
+    "id": "boTpXRY",
+    "created_at": "2022-10-28T00:25:33Z",
+    "updated_at": "2022-10-28T00:25:33Z",
     "embed_version": "4.11.4",
     "published_at": null,
     "fields": [
@@ -77,12 +78,12 @@
         },
         "validations": [
           {
-            "metadata": {
-              "hiddenInApp": true
-            },
             "operator": "not_blank",
             "comparand": "",
-            "errorMessage": "Must not be blank"
+            "errorMessage": "Must not be blank",
+            "metadata": {
+              "hiddenInApp": true
+            }
           }
         ],
         "sensitive": null,
@@ -112,12 +113,12 @@
         },
         "validations": [
           {
-            "metadata": {
-              "hiddenInApp": true
-            },
             "operator": "not_blank",
             "comparand": "",
-            "errorMessage": "Must not be blank"
+            "errorMessage": "Must not be blank",
+            "metadata": {
+              "hiddenInApp": true
+            }
           }
         ],
         "sensitive": null,
@@ -152,12 +153,12 @@
             "errorMessage": "Please provide a valid email address"
           },
           {
-            "metadata": {
-              "hiddenInApp": true
-            },
             "operator": "not_blank",
             "comparand": "",
-            "errorMessage": "Must not be blank"
+            "errorMessage": "Must not be blank",
+            "metadata": {
+              "hiddenInApp": true
+            }
           }
         ],
         "sensitive": null,
@@ -187,24 +188,24 @@
         },
         "validations": [
           {
-            "metadata": {
-              "hiddenInApp": true
-            },
             "operator": "not_blank",
             "comparand": "",
-            "errorMessage": "Must not be blank"
+            "errorMessage": "Must not be blank",
+            "metadata": {
+              "hiddenInApp": true
+            }
           },
           {
+            "operator": "longer_than",
+            "comparand": 5,
+            "errorMessage": "Password is too short",
             "metadata": {
               "mandatory": true,
               "staticOperator": true,
               "comparandFieldProps": {
                 "min": 5
               }
-            },
-            "operator": "longer_than",
-            "comparand": 5,
-            "errorMessage": "Password is too short"
+            }
           }
         ],
         "sensitive": true,
