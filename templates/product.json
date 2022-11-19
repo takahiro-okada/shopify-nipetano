@@ -43,13 +43,6 @@
             "show_price_in_button": false,
             "show_payment_button": true
           }
-        },
-        "66d5f5db-3d1f-41ae-bd7c-42e397145a20": {
-          "type": "buy_it_with",
-          "settings": {
-            "product": "カンガ-4",
-            "title": "Buy it with"
-          }
         }
       },
       "block_order": [
@@ -58,8 +51,7 @@
         "share_buttons",
         "variant_selector",
         "quantity_selector",
-        "buy_buttons",
-        "66d5f5db-3d1f-41ae-bd7c-42e397145a20"
+        "buy_buttons"
       ],
       "settings": {
         "image_size": "large",
