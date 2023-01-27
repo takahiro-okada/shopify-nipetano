@@ -1,0 +1,15 @@
+.c-button {
+  display: inline-block;
+  padding: 15px 80px;
+  text-align: center;
+  background-color: #222;
+  color: #fff;
+  border-radius: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.c-button--line {
+  background-color: #00ba00;
+  color: #fff;
+}
