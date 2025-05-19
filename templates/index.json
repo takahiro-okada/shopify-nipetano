@@ -3,21 +3,6 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
-        "slide-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/220115_1.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/220115_2.jpg",
-            "apply_overlay": false,
-            "content_position": "bottomLeft",
-            "subheading": "",
-            "title": "",
-            "button_1_text": "",
-            "button_1_link": "",
-            "button_2_text": "",
-            "button_2_link": ""
-          }
-        },
         "slide-1": {
           "type": "image",
           "settings": {
@@ -35,7 +20,6 @@
         }
       },
       "block_order": [
-        "slide-0",
         "slide-1"
       ],
       "settings": {
@@ -86,47 +70,6 @@
         "grid_desktop_items_per_row": 4
       }
     },
-    "featured-product": {
-      "type": "featured-product",
-      "blocks": {
-        "product-meta": {
-          "type": "product_meta",
-          "settings": {
-            "show_vendor": true,
-            "show_sku": false,
-            "show_product_rating": false,
-            "show_taxes_included": false
-          }
-        },
-        "variant-selector": {
-          "type": "variant_selector",
-          "settings": {
-            "selector_mode": "dropdown",
-            "show_color_swatch": false,
-            "show_color_carousel": false,
-            "size_chart": ""
-          }
-        },
-        "buy-buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_price_in_button": false,
-            "show_payment_button": true
-          }
-        }
-      },
-      "block_order": [
-        "product-meta",
-        "variant-selector",
-        "buy-buttons"
-      ],
-      "settings": {
-        "subheading": "",
-        "title": "ルワンダの伝統工芸品",
-        "show_headings_on_mobile": true,
-        "product": "ルワンダ-バスケット"
-      }
-    },
     "blog-posts": {
       "type": "blog-posts",
       "blocks": {
@@ -152,10 +95,20 @@
       "type": "apps",
       "blocks": {
         "eb1c023c-d976-4312-9147-b50f59d5b07c": {
-          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
-            "heading_size": 20,
-            "feed_width": 100,
+            "title": "",
+            "title_color": "",
+            "title_size_v2": 0,
+            "alignment": "center",
+            "instafeed_margin_top": 0,
+            "instafeed_margin_bottom": 0,
+            "instafeed_margin_sides": 0,
+            "show_instagram_link": false,
+            "link_alignment": "left",
+            "link_color": "#000000",
+            "background_color": "",
+            "feed_id": "",
             "html_area": ""
           }
         }
@@ -166,14 +119,22 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "instafeed_yzbEY3": {
+      "type": "instafeed",
+      "settings": {
+        "heading_size": 20,
+        "feed_width": 100,
+        "html_area": ""
+      }
     }
   },
   "order": [
     "slideshow",
     "889426d9-1a76-4267-949f-814914c148eb",
     "featured-collections",
-    "featured-product",
     "blog-posts",
-    "16541770480e1c0d79"
+    "16541770480e1c0d79",
+    "instafeed_yzbEY3"
   ]
 }

@@ -37,9 +37,7 @@
       "postSubmissionRedirectUrl": "\/account",
       "goBackAfterCancelButtonClick": false
     },
-    "install_locations": [
-
-    ],
+    "install_locations": [],
     "created_at": "2022-10-28T00:30:11Z",
     "updated_at": "2022-10-28T00:30:11Z",
     "revision_ids": [
@@ -74,8 +72,7 @@
         "appearance": {
           "width": 12
         },
-        "settings": {
-        },
+        "settings": {},
         "validations": [
           {
             "metadata": {
@@ -109,8 +106,7 @@
         "appearance": {
           "width": 12
         },
-        "settings": {
-        },
+        "settings": {},
         "validations": [
           {
             "metadata": {
@@ -144,8 +140,7 @@
         "appearance": {
           "width": 12
         },
-        "settings": {
-        },
+        "settings": {},
         "validations": [
           {
             "operator": "is_valid_email",
@@ -184,8 +179,7 @@
         "appearance": {
           "width": 12
         },
-        "settings": {
-        },
+        "settings": {},
         "validations": [
           {
             "metadata": {
@@ -227,17 +221,12 @@
         "label": "メール購読する",
         "placeholder": "",
         "description": "",
-        "enum": [
-
-        ],
+        "enum": [],
         "appearance": {
           "width": 12
         },
-        "settings": {
-        },
-        "validations": [
-
-        ],
+        "settings": {},
+        "validations": [],
         "sensitive": null,
         "preset": "accepts_marketing",
         "autotag": null
@@ -250,8 +239,6 @@
         "description": ""
       }
     ],
-    "rules": [
-
-    ]
+    "rules": []
   }
 }

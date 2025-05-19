@@ -1,0 +1,36 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_large": false
+      }
+    },
+    "text_with_image_cLUfX8": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "",
+        "title": "NIPETANO | アフリカ雑貨店",
+        "image": "shopify:\/\/shop_images\/250420__7iv_12.jpg",
+        "image_position": "right",
+        "content": "<p><strong>営業時間<br\/>月~金: 10:00 - 14:00<br\/>土日祝: 不定期<br\/><br\/><\/strong>土日祝にオープンする際には、Instagramで告知します！<br\/>ぜひInstagramをフォローいただき、お待ちください😀<\/p>",
+        "link_text": "Google Mapはこちらから",
+        "link_url": "https:\/\/maps.app.goo.gl\/DCmTATPnPyEkWdak8"
+      }
+    },
+    "custom_html_WkQ8by": {
+      "type": "custom-html",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "html": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3272.4994854164197!2d136.92865089999998!3d34.893912799999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6004875ad7c14b25%3A0x5a36fcfa95d8cd72!2zTklQRVRBTk8gfCDjgqLjg5Xjg6rjgqvpm5Hosqjlupc!5e0!3m2!1sja!2sjp!4v1745129407217!5m2!1sja!2sjp\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "text_with_image_cLUfX8",
+    "custom_html_WkQ8by"
+  ]
+}
