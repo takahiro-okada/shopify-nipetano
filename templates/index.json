@@ -26,10 +26,70 @@
             "button_2_text": "",
             "button_2_link": ""
           }
+        },
+        "image_wXDgrR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Kikoy_Collection_1.png",
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "image_twQtYb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Kikoy_Collection_2.png",
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "image_jFyrc6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Kikoy_Collection_3.png",
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
+        },
+        "image_WxUfVb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Kikoy_Collection.png",
+            "apply_overlay": true,
+            "content_position": "bottomLeft",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": ""
+          }
         }
       },
       "block_order": [
-        "slide-1"
+        "slide-1",
+        "image_wXDgrR",
+        "image_twQtYb",
+        "image_jFyrc6",
+        "image_WxUfVb"
       ],
       "settings": {
         "show_fullscreen": false,
@@ -67,18 +127,6 @@
         "grid_desktop_items_per_row": 4
       }
     },
-    "889426d9-1a76-4267-949f-814914c148eb": {
-      "type": "text-with-image",
-      "settings": {
-        "subheading": "",
-        "title": "NIPETANO公式LINE",
-        "image": "shopify://shop_images/Frame_2.png",
-        "image_position": "right",
-        "content": "<p>《新作商品》や《お役立ち情報》、《LINEお友だち限定情報》などをお届け致します｡<br/>初回登録時に500円クーポン配布していますので､ぜひお得にお買い物をお楽しみください。</p>",
-        "link_text": "友達登録を行う",
-        "link_url": "https://lin.ee/flG1zbF"
-      }
-    },
     "blog-posts": {
       "type": "blog-posts",
       "blocks": {
@@ -98,6 +146,18 @@
         "show_category": false,
         "button_link": "shopify://blogs/column",
         "button_text": "View all articles"
+      }
+    },
+    "889426d9-1a76-4267-949f-814914c148eb": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "",
+        "title": "NIPETANO公式LINE",
+        "image": "shopify://shop_images/Frame_2.png",
+        "image_position": "right",
+        "content": "<p>《新作商品》や《お役立ち情報》、《LINEお友だち限定情報》などをお届け致します｡<br/>初回登録時に500円クーポン配布していますので､ぜひお得にお買い物をお楽しみください。</p>",
+        "link_text": "友達登録を行う",
+        "link_url": "https://lin.ee/flG1zbF"
       }
     },
     "16541770480e1c0d79": {
