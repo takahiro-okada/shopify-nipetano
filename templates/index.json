@@ -12,12 +12,11 @@
     "slideshow": {
       "type": "slideshow",
       "blocks": {
-        "slide-1": {
+        "image_WxUfVb": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/220117_1.jpg",
-            "mobile_image": "shopify://shop_images/220117_2.jpg",
-            "apply_overlay": false,
+            "image": "shopify://shop_images/Kikoy_Collection.png",
+            "apply_overlay": true,
             "content_position": "bottomLeft",
             "subheading": "",
             "title": "",
@@ -69,11 +68,12 @@
             "button_2_link": ""
           }
         },
-        "image_WxUfVb": {
+        "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Kikoy_Collection.png",
-            "apply_overlay": true,
+            "image": "shopify://shop_images/220117_1.jpg",
+            "mobile_image": "shopify://shop_images/220117_2.jpg",
+            "apply_overlay": false,
             "content_position": "bottomLeft",
             "subheading": "",
             "title": "",
@@ -85,11 +85,11 @@
         }
       },
       "block_order": [
-        "slide-1",
+        "image_WxUfVb",
         "image_wXDgrR",
         "image_twQtYb",
         "image_jFyrc6",
-        "image_WxUfVb"
+        "slide-1"
       ],
       "settings": {
         "show_fullscreen": false,
