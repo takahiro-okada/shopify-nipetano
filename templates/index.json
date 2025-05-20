@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "slideshow": {
@@ -6,8 +15,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/220117_1.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/220117_2.jpg",
+            "image": "shopify://shop_images/220117_1.jpg",
+            "mobile_image": "shopify://shop_images/220117_2.jpg",
             "apply_overlay": false,
             "content_position": "bottomLeft",
             "subheading": "",
@@ -30,18 +39,6 @@
         "text_color": "#ffffff",
         "button_color": "#363636",
         "button_background": "#ffffff"
-      }
-    },
-    "889426d9-1a76-4267-949f-814914c148eb": {
-      "type": "text-with-image",
-      "settings": {
-        "subheading": "",
-        "title": "NIPETANO公式LINE",
-        "image": "shopify:\/\/shop_images\/Frame_2.png",
-        "image_position": "right",
-        "content": "<p>《新作商品》や《お役立ち情報》、《LINEお友だち限定情報》などをお届け致します｡<br\/>初回登録時に500円クーポン配布していますので､ぜひお得にお買い物をお楽しみください。<\/p>",
-        "link_text": "友達登録を行う",
-        "link_url": "https:\/\/lin.ee\/flG1zbF"
       }
     },
     "featured-collections": {
@@ -70,6 +67,18 @@
         "grid_desktop_items_per_row": 4
       }
     },
+    "889426d9-1a76-4267-949f-814914c148eb": {
+      "type": "text-with-image",
+      "settings": {
+        "subheading": "",
+        "title": "NIPETANO公式LINE",
+        "image": "shopify://shop_images/Frame_2.png",
+        "image_position": "right",
+        "content": "<p>《新作商品》や《お役立ち情報》、《LINEお友だち限定情報》などをお届け致します｡<br/>初回登録時に500円クーポン配布していますので､ぜひお得にお買い物をお楽しみください。</p>",
+        "link_text": "友達登録を行う",
+        "link_url": "https://lin.ee/flG1zbF"
+      }
+    },
     "blog-posts": {
       "type": "blog-posts",
       "blocks": {
@@ -87,7 +96,7 @@
         "subheading": "Column",
         "title": "コラム",
         "show_category": false,
-        "button_link": "shopify:\/\/blogs\/column",
+        "button_link": "shopify://blogs/column",
         "button_text": "View all articles"
       }
     },
@@ -95,7 +104,7 @@
       "type": "apps",
       "blocks": {
         "eb1c023c-d976-4312-9147-b50f59d5b07c": {
-          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
             "title": "",
             "title_color": "",
@@ -131,9 +140,9 @@
   },
   "order": [
     "slideshow",
-    "889426d9-1a76-4267-949f-814914c148eb",
     "featured-collections",
     "blog-posts",
+    "889426d9-1a76-4267-949f-814914c148eb",
     "16541770480e1c0d79",
     "instafeed_yzbEY3"
   ]

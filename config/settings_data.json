@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "heading_color": "#5c5c5c",
@@ -38,11 +47,11 @@
     "cart_enable_notes": false,
     "cart_show_free_shipping_threshold": false,
     "cart_free_shipping_threshold": "50",
-    "social_facebook": "https:\/\/www.facebook.com\/NIPE-TANO-%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E9%9B%91%E8%B2%A8%E3%81%AE%E3%81%8A%E5%BA%97-108070555054412",
+    "social_facebook": "https://www.facebook.com/NIPE-TANO-%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E9%9B%91%E8%B2%A8%E3%81%AE%E3%81%8A%E5%BA%97-108070555054412",
     "social_twitter": "",
-    "social_instagram": "https:\/\/www.instagram.com\/nipetano.shop\/?hl=ja",
-    "favicon": "shopify:\/\/shop_images\/nipe_tano_favicon_02.png",
-    "checkout_logo_image": "shopify:\/\/shop_images\/nipe_tano_logo_1_3fd14173-dc16-404b-b7a6-e35a081d7ed0.png",
+    "social_instagram": "https://www.instagram.com/nipetano.shop/?hl=ja",
+    "favicon": "shopify://shop_images/nipe_tano_favicon_02.png",
+    "checkout_logo_image": "shopify://shop_images/nipe_tano_logo_1_3fd14173-dc16-404b-b7a6-e35a081d7ed0.png",
     "checkout_logo_position": "left",
     "checkout_logo_size": "large",
     "checkout_body_background_color": "#ffffff",
@@ -74,7 +83,7 @@
         "type": "header",
         "settings": {
           "use_sticky_header": true,
-          "logo": "shopify:\/\/shop_images\/nipe_tano_logo_1_3fd14173-dc16-404b-b7a6-e35a081d7ed0.png",
+          "logo": "shopify://shop_images/nipe_tano_logo_1_3fd14173-dc16-404b-b7a6-e35a081d7ed0.png",
           "logo_max_width": 140,
           "mobile_logo_max_width": 90,
           "show_country_selector": false,
@@ -107,7 +116,7 @@
             "type": "text",
             "settings": {
               "title": "About the shop",
-              "content": "<p>Instagramでは、毎日のアフリカ雑貨を作っている様子を届けています。<br\/>ぜひフォローしてください🇹🇿<\/p>",
+              "content": "<p>Instagramでは、毎日のアフリカ雑貨を作っている様子を届けています。<br/>ぜひフォローしてください🇹🇿</p>",
               "show_social_media": true
             }
           },
@@ -115,7 +124,7 @@
             "type": "newsletter",
             "settings": {
               "title": "Mail Magazine",
-              "content": "<p>お得な案内やクーポンを不定期に配信しています。<\/p>"
+              "content": "<p>お得な案内やクーポンを不定期に配信しています。</p>"
             }
           }
         },
@@ -139,7 +148,7 @@
           "show_only_for_visitors": true,
           "show_only_once": true,
           "title": "Popup",
-          "content": "<p>You can use this popup to display some useful information to your customers.<\/p>",
+          "content": "<p>You can use this popup to display some useful information to your customers.</p>",
           "show_newsletter": true,
           "apparition_delay": 5
         }
@@ -228,7 +237,7 @@
               "type": "text",
               "settings": {
                 "title": "About the shop",
-                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>",
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.</p>",
                 "show_social_media": true
               }
             },
@@ -242,7 +251,7 @@
               "type": "newsletter",
               "settings": {
                 "title": "Newsletter",
-                "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.<\/p>"
+                "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.</p>"
               }
             }
           },
@@ -337,7 +346,7 @@
               "type": "text",
               "settings": {
                 "title": "About the shop",
-                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>",
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.</p>",
                 "show_social_media": true
               }
             },
@@ -351,7 +360,7 @@
               "type": "newsletter",
               "settings": {
                 "title": "Newsletter",
-                "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.<\/p>"
+                "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.</p>"
               }
             }
           },
@@ -447,7 +456,7 @@
               "type": "text",
               "settings": {
                 "title": "About the shop",
-                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>",
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.</p>",
                 "show_social_media": true
               }
             },
@@ -461,7 +470,7 @@
               "type": "newsletter",
               "settings": {
                 "title": "Newsletter",
-                "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.<\/p>"
+                "content": "<p>Subscribe to receive updates, access to exclusive deals, and more.</p>"
               }
             }
           },
