@@ -89,10 +89,10 @@
     "recently-viewed-products": {
       "type": "recently-viewed-products",
       "settings": {
-        "title": "Recently viewed",
+        "title": "あなたにオススメの商品",
         "show_product_info": true,
         "show_vendor": false,
-        "show_color_swatch": false
+        "show_color_swatch": true
       }
     }
   },
