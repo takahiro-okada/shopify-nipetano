@@ -44,19 +44,19 @@
             "show_label": false
           }
         },
-        "content_xD6kX8": {
-          "type": "content",
-          "settings": {
-            "title": "亜paddingだparsercomさ",
-            "content": "<p>送料</p>",
-            "page": ""
-          }
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
             "show_price_in_button": false,
             "show_payment_button": true
+          }
+        },
+        "content_aVJ8wB": {
+          "type": "content",
+          "settings": {
+            "title": "送料について",
+            "content": "<p>あああ</p>",
+            "page": ""
           }
         }
       },
@@ -66,8 +66,8 @@
         "share_buttons",
         "variant_selector",
         "quantity_selector",
-        "content_xD6kX8",
-        "buy_buttons"
+        "buy_buttons",
+        "content_aVJ8wB"
       ],
       "settings": {
         "image_size": "large",
