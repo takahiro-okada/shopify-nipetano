@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -14,13 +23,11 @@
         },
         "description": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         },
         "share_buttons": {
           "type": "share_buttons",
-          "settings": {
-          }
+          "settings": {}
         },
         "variant_selector": {
           "type": "variant_selector",
@@ -43,6 +50,14 @@
             "show_price_in_button": false,
             "show_payment_button": true
           }
+        },
+        "content_YMCDaW": {
+          "type": "content",
+          "settings": {
+            "title": "送料について",
+            "content": "{{ block.settings.page.metafields.custom.delivery | metafield_tag }}",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -51,7 +66,8 @@
         "share_buttons",
         "variant_selector",
         "quantity_selector",
-        "buy_buttons"
+        "buy_buttons",
+        "content_YMCDaW"
       ],
       "settings": {
         "image_size": "large",
