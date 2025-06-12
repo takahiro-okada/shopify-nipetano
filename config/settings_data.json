@@ -44,7 +44,7 @@
     "product_list_horizontal_spacing": "small",
     "product_list_vertical_spacing": "small",
     "cart_type": "page",
-    "cart_enable_notes": false,
+    "cart_enable_notes": true,
     "cart_show_free_shipping_threshold": false,
     "cart_free_shipping_threshold": "50",
     "social_facebook": "https://www.facebook.com/NIPE-TANO-%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E9%9B%91%E8%B2%A8%E3%81%AE%E3%81%8A%E5%BA%97-108070555054412",
