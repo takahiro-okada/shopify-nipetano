@@ -203,15 +203,6 @@
       "settings": {
         "include_margins": true
       }
-    },
-    "custom_html_73CFbH": {
-      "type": "custom-html",
-      "name": "Custom HTML",
-      "settings": {
-        "subheading": "",
-        "title": "INSTAGRAM STORY",
-        "html": ""
-      }
     }
   },
   "order": [
@@ -220,7 +211,6 @@
     "blog-posts",
     "889426d9-1a76-4267-949f-814914c148eb",
     "1749655693b48d2e15",
-    "1750574500dfaf91d3",
-    "custom_html_73CFbH"
+    "1750574500dfaf91d3"
   ]
 }
