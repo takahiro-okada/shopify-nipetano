@@ -127,6 +127,21 @@
         "grid_desktop_items_per_row": 4
       }
     },
+    "1750574500dfaf91d3": {
+      "type": "apps",
+      "blocks": {
+        "instafeed_story_instagram_feed_app_block_feeds_ENEd7Y": {
+          "type": "shopify://apps/instafeed-story-instagram-feed/blocks/app-block-feeds/4169bff3-1d6b-44ad-9377-2ebc3d31f01c",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "instafeed_story_instagram_feed_app_block_feeds_ENEd7Y"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "blog-posts": {
       "type": "blog-posts",
       "blocks": {
@@ -195,6 +210,7 @@
     "featured-collections",
     "blog-posts",
     "889426d9-1a76-4267-949f-814914c148eb",
-    "1749655693b48d2e15"
+    "1749655693b48d2e15",
+    "1750574500dfaf91d3"
   ]
 }
